@@ -1,0 +1,29 @@
+body {
+  background-color: #EAF6F6;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 5%;
+}
+h1{
+    color: #5EAAA8;
+}
+h3{
+    color: #66BFBF;
+}
+a:link{
+    color: #46b8b8;
+}
+a:visited{
+    color: #056676;
+}
+a:hover{
+    color: #5EAAA8;
+}
+a:active{
+    color: #66BFBF;
+}
+
